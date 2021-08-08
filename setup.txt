@@ -1,0 +1,6 @@
+Requires chrome.
+1. Launch this. "C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --remote-debugging-port=9222 --user-data-dir="C:\selenium\ChromeProfile"
+2. Go to roblox.com and login
+3. Run the code with another python file.
+
+MAKE SURE TO DOWNLOAD all FILES
