@@ -1,0 +1,2 @@
+Uses a python script to autonomusly chat all of your friends at the same time.
+(within 1s)
